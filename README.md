@@ -2,8 +2,7 @@
 ### Welcome to my Github profile!
 ---
 ### About me
-##### I'm an Electrical Engineer currently working as a Software Engineer for Embedded Systems at the automotive industry. 
-##### I'm very passionate about all things software related and enjoy learning new concepts and tools.
+##### I'm an Electrical Engineer currently working as a Software Engineer for Embedded Systems at the automotive industry. I'm very passionate about all things software related and enjoy learning new concepts and tools.
 ##### See below the main repositories I'm currently working on:
 * [Data Structures & Algorithms](https://github.com/pedrotorreao/DSA)
 * [JavaScript Projects](https://github.com/pedrotorreao/javascript-projects)
