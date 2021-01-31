@@ -1,12 +1,13 @@
 ## Hi there 👋
-#### Welcome to my Github profile!
+### Welcome to my Github profile!
+---
 ### About me
 ##### I'm an Electrical Engineer currently working as a Software Engineer for Embedded Systems at the automotive industry. 
 ##### I'm very passionate about all things software related and enjoy learning new concepts and tools.
 ##### See below the main repositories I'm working on now:
-* [Data Structures & Algorithms](/DSA)
-* [JavaScript Projects](/javascript-projects)
-* [Cpp](/cpp)
+* [Data Structures & Algorithms](../DSA)
+* [JavaScript Projects](../javascript-projects)
+* [Cpp](../cpp)
 <!--
 **pedrotorreao/pedrotorreao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
