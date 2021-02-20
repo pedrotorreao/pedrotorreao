@@ -7,6 +7,8 @@
 * [Data Structures & Algorithms](https://github.com/pedrotorreao/DSA)
 * [JavaScript Projects](https://github.com/pedrotorreao/javascript-projects)
 * [C++](https://github.com/pedrotorreao/Cpp)
+
+![itaintmuch](https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg)
 <!--
 **pedrotorreao/pedrotorreao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
