@@ -3,10 +3,6 @@
 ---
 ### About me
 ##### I'm an Electrical Engineer currently working as a Software Engineer for Embedded Systems in the automotive industry. I'm very passionate about all things software related and enjoy learning new concepts and tools.
-##### See below the main repositories I'm currently working on:
-* [Data Structures & Algorithms](https://github.com/pedrotorreao/DSA)
-* [C++](https://github.com/pedrotorreao/Cpp)
-
 <!--
 **pedrotorreao/pedrotorreao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
