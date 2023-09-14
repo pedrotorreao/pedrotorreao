@@ -18,13 +18,12 @@ I'm an Electrical Engineer turned Embedded Software Engineer with a burning pass
 
 ### Overview
 [![pedrotorreao](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotorreao&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=pedrotorreao&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 <!--
+
+[![card](https://github-readme-stats.vercel.app/api?username=pedrotorreao&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 **pedrotorreao/pedrotorreao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
