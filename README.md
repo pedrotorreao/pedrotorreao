@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm an Electrical Engineer turned Embedded Software Engineer with a great passion for software-related subjects. I enjoy deep dives into complex topics and aspire to become a top-notch Back-end Engineer. My ultimate goal is to create tools that are indispensable to people, and I relish the art of teaching and documenting my learnings along the way. Let's make software magic happen together!
+I'm an Electrical Engineer turned Software Engineer with a passion for software-related subjects. I enjoy deep dives into complex topics and aspire to become a reliable Back-end Engineer. My goal is to create tools that are useful to people.
 
 <!--
 ### Languages and Tools
