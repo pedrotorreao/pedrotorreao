@@ -15,12 +15,11 @@ I'm an Electrical Engineer turned Software Engineer with a passion for software-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
 
-
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
+![Stats](./profile/stats.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 [![card](https://github-readme-stats.vercel.app/api?username=pedrotorreao&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
