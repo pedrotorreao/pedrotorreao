@@ -17,7 +17,8 @@ I'm an Electrical Engineer turned Software Engineer with a passion for software-
 
 
 ![Stats](./profile/stats.svg)
-
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 
