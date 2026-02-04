@@ -1,10 +1,10 @@
 ### Hi there, welcome 👋
-
+<!--
 ### About me
 
 I'm an Electrical Engineer turned Software Engineer with a passion for software-related subjects. I enjoy deep dives into complex topics and aspire to become a reliable Back-end Engineer. My goal is to create tools that are useful to people.
 
-<!--
+
 ### Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -15,8 +15,8 @@ I'm an Electrical Engineer turned Software Engineer with a passion for software-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
 
-### Overview
-[![pedrotorreao](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotorreao&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Stats](./profile/stats.svg)
 
 
 <!--
