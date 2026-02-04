@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "7 5 * * *"
+    - cron: "10 5 * * *"
   workflow_dispatch:
 
 jobs:
