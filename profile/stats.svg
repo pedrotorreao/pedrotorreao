@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pedro Torre&#227;o's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 73, Total PRs: 12, Total Issues: 7, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 66, Total PRs: 12, Total Issues: 7, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 202.0178284812433;
+        stroke-dashoffset: 202.68831890437284;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >73</text>
+      >66</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
